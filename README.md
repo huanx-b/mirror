@@ -9,7 +9,7 @@ github file proxy built on cloudflare
 
 Its specific usage has been said on the page
 
-If you don't like watching, remember
+If you don't like to watch, please remember
 ~~~
 
 https://g.23x.top/https://github.com/username/project/****
