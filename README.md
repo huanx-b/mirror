@@ -5,6 +5,6 @@ You can use Ctrl + F to search quickly after expanding all Assets
 
 github file proxy built on cloudflare
 
-https://g.23x.top/
+[g.23x.top](https://g.23x.top/)
 
 ##### I found that setting too many Assets is not very good, so I decided to only have 3 Assets
